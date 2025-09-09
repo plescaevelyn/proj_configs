@@ -1,0 +1,19 @@
+[connection]
+id=Wired connection 2
+uuid=e9328651-d3da-36c6-8671-a07011f142a3
+type=ethernet
+interface-name=eth1
+timestamp=1756464449
+
+[ethernet]
+
+[ipv4]
+address1=192.168.97.30/32
+method=manual
+route1=192.168.97.41/32
+
+[ipv6]
+addr-gen-mode=default
+method=disabled
+
+[proxy]
