@@ -1,9 +1,7 @@
 [connection]
 id=Wired connection 3
-uuid=02f35fec-207f-39a5-9654-9e175ecedb55
 type=ethernet
 interface-name=eth2
-timestamp=1756464450
 
 [ethernet]
 
